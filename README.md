@@ -52,9 +52,9 @@ A complete, deployment-ready Hospital Management System built with plain PHP, My
 
 | Role | Username | Password |
 |---|---|---|
-| Admin | `admin` | `Admin@123` |
-| Doctor | `drsmith` | `Admin@123` |
-| Receptionist | `reception1` | `Admin@123` |
+| Admin | `Aditya` | `Admin@123` |
+| Doctor | `Aditya1` | `Admin@123` |
+| Receptionist | `Aditya2` | `Admin@123` |
 
 > New doctor accounts created via the Admin panel get the default password `Doctor@123`.
 > New staff accounts (Admin/Receptionist) created via the Admin panel get the default password `Staff@123`.
